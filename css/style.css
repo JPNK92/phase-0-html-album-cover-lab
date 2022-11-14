@@ -110,3 +110,12 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+#title-box>h2{
+  font-size: 4rem;
+}
+.down{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
